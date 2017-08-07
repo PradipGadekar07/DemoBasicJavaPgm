@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class fibonacciSeries {
 	public static void main(String a[]) {
+		System.out.println("here we go");
 		System.out.println("Enter any no.which u want Series:");
 		Scanner sc = new Scanner(System.in);
 		int febCount = sc.nextInt();
