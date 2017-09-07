@@ -8,7 +8,7 @@ public enum EnumDemo {
 	}
 	
 }
-class simple123{
+ class simple123{
 	public static void main(String[] args) {
 		 EnumDemo e= EnumDemo.AS;
 	System.out.println("hiii");
